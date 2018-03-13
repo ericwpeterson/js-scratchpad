@@ -1,0 +1,10 @@
+.idea
+.cache
+node_modules
+.vscode
+
+# Make it easier on people to move the files where they belong without having to pollute their git working dir
+server/data/csd
+
+# For https://direnv.net/
+.envrc
